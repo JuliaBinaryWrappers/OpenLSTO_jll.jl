@@ -1,0 +1,318 @@
+[[OpenLSTO]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "56512361766824aa23a9f08002090cf4154094ae"
+os = "macos"
+
+    [[OpenLSTO.download]]
+    sha256 = "d192fd4ad62727284cc9c603e47a02104884ab4408c9063be87d89af4be52ae4"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.aarch64-apple-darwin-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cdbd60de9fa8c25fbb49bd21a2c635c8fdc0be28"
+os = "macos"
+
+    [[OpenLSTO.download]]
+    sha256 = "9679b1622ee4b8996fabd5d1b64a5cb893f9734053c2eb92aa85b7e690df991f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.aarch64-apple-darwin-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3009d447dd24b3e52cf5860c8abad26c8d68ff80"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "4c23babbe81c8c59a9a280a8e9e8308e4971b4ed055dbb314396056c625b61dd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6dedf33a51589fd4171979a94f2631b556f7c4a8"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "3f9c3535a4ff852dc57c9e7384d9de7acf33916ed1106e2111742b86f7145b89"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3753d5df9e25c420bac6e788cfb201e8ba444008"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "d02da13e496b9141fa92523660958b001393f52508c60a0d92b5102892d309ac"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b02ee4423d79f862ceeaaccc1fccac62a2ba9d1e"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "78bb531a2cf0adede54920cdaf50fa7e8192ea365b6bc679a5dde0112cae9cec"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5607d54bcea464c34110614d09fc420cc4daf534"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "39208c5af92bbebc8bca5e202c37e40ee60c2de0beb2f13eb0a266cdd0b94c2d"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b6899918b6d1e8e3d5ba32cb3114d0ccd449ed2e"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "ccdddbb2045ca6e17c704f6b65c4fa16ea6961637f8efc45d165184531f18cd5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "283a4f2c252718ea9f2f8deb37b51bc86a180e5e"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "9af80925dffd99d2896976e7d8f0d67f373247767636b6354819b3d7c5ebf215"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51c608c4f758ee9d15f3a446e004806fd7a5222f"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "1632b0655c88736349b9031f5dc3441a24818234bc089b9890dc7d5c544aedcc"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "33b664d33cc7d4a4b21fd2882cfa51b077428712"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "dbcbe20915af0fc4d3ef45ae5c071c12ee5698b441c0870f52b5ceab0729ab26"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "612194b27652edde2f7fd8ff96f2fa85e7c7aff9"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "8fc412f033be0b7bc963b77506a8c8d80c87e060213e7a1416681ba531aba076"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "634ee2e2d0aeff200084ee8b74e71673db99901f"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "66c3a44fdb84e8a50aadcba25e2824f6d64a170640eb694cd9425724b920885b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f218816e35444434ace894b6aaa11e93b847a0aa"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "d6ae2d5700584fb69642bc088939c1265cfc03ca98a5f2a28a6776782a86f193"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "604e2549e4063c656f4ca570b6a556f4aa6d8e45"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "6d0c65c6460d4c8545ef56646a5e5c3de07ee2f6255ed52186e0442c9fdfa2b0"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d933eb3e74bc0fcebf488736743c18934769b01"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "768b4ace3c50e65b2dbdd17407ecefc737935146c58803389156fd6a0db5e74c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "13aa901e5600b79fe00cfcf95f0925fedc9ab458"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "7f0cf2fb0af370a58b1aec6ceca8587804f652271a6b14292606df3314116f25"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f5508240da693ea515e44daca2842547dcce2d8"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "31472e0f764026b3c0af5e8d2bb69c256db1a90e158fea9c3e894d09c6305af6"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.i686-linux-musl-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a2231958478e8f5d719181747978c54323c924e3"
+os = "windows"
+
+    [[OpenLSTO.download]]
+    sha256 = "42e55d75740d588e444dd644a405b7d2604824cca8ff358ae9f3b674cd81e2d6"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b304629e04058948054d583f783251705341fe56"
+os = "windows"
+
+    [[OpenLSTO.download]]
+    sha256 = "b3ee5ba764fef7566c7cf593d0f5d0b76e7fd1801fad736f64e4df3a6374f948"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6743c873c79d9a3cc9bfecab68746ad495296d6"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "343c2792d188b27dd5f6bb403e100808a2b0f4d31a7f99a33e765a48e46a2135"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b794b8e36e90b7ec53ed984652ec0ec09a3068e"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "d7956a1696fb9cf8614a62029a9f796e4f845ea0951294875f2f8b396edc03b7"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "775dd9e4f628dde7b7d9f4f877ea363717ad5f3a"
+os = "macos"
+
+    [[OpenLSTO.download]]
+    sha256 = "13550dfa1d5dd1aade6ac08f827b2d1f3beed6121e5479985052802c54e3af49"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-apple-darwin-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24fc19ce49fddd7184fde30abc7fd347a5da41fa"
+os = "macos"
+
+    [[OpenLSTO.download]]
+    sha256 = "52b2d9b5c7b0ec7bb7fa852df61ea7676c47eb3f17a357386a2b798d6f4a4ed8"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-apple-darwin-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bf18ef36bbdbd26c2169fee8457b239baaf88ab2"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "78cbec39d302e83ba9226608858c7773ce0c9fde79d42ecad601e8dba4c31508"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6bb381ba4ac2ed5454d39226a801e79bd189fa8c"
+libc = "glibc"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "c151f5151a9c8694823928e58874f19846985f6da9ade39694b634a752ec575a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5e249b430e6ff29e4869c1373070428a5199845b"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "d4436aef20291e8de12bbc68fb9cf20f1527da56b526040d9f94ee19553da16e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e4a5e93dc54be2c0e738b72c72e1b784c6d3682"
+libc = "musl"
+os = "linux"
+
+    [[OpenLSTO.download]]
+    sha256 = "23f3d684a9a99b5fd4d0226c0aab36e34e3b7ee3ba03af26647526eda0c6e432"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee124221f507c64f5dc95897930c49998ffdd67f"
+os = "freebsd"
+
+    [[OpenLSTO.download]]
+    sha256 = "4b6e754c0d65eb89c46c3c2c2aecf23fc836320d19d9043da3bdee429a4f2352"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-unknown-freebsd-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d280e2563dc2f5c104fe15779f1606f33e7d2893"
+os = "freebsd"
+
+    [[OpenLSTO.download]]
+    sha256 = "2db34311151f5bf44985b26fe65091c8cf0289ad8cc3ed0678ee59ccb8063fab"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-unknown-freebsd-cxx11.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f8aee79306fd63745d783d03357ff28f479fb2ae"
+os = "windows"
+
+    [[OpenLSTO.download]]
+    sha256 = "0003171781e691313cdbe4e470e7760d5ba4705c7a29fc31d8e30897c1982762"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[OpenLSTO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac491dffec35058d5a75b484e4fd22e671a8971d"
+os = "windows"
+
+    [[OpenLSTO.download]]
+    sha256 = "485c6130db9018fb5a2b8d6e18b7ba0e92b3589d61b4f23e4a5cfb19c42f53d5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLSTO_jll.jl/releases/download/OpenLSTO-v1.0.0+0/OpenLSTO.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
